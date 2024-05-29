@@ -1,0 +1,6 @@
+price25 = 0.78
+price50 = 1.52
+price100 = 3.1
+price250 = 7.69
+price500 = 15.52
+price1000 = 32.01
